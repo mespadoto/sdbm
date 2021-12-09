@@ -35,3 +35,8 @@ The first experiment will generate boundary maps for synthetic data (e.g. blobs)
 python experiment_blobs.py
 ```
 
+The second experiment will generate boundary maps, for different classifiers over the real datasets described above. It can be executed by running the script:
+
+```
+python experiment_real.py
+```
