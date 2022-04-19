@@ -40,3 +40,12 @@ The second experiment will generate boundary maps, for different classifiers ove
 ```
 python experiment_real.py
 ```
+
+The third experiment is designed to compare the performance of SSNP and UMAP+iLAMP while generating
+decision boundary maps of different sizes, with different amounts of syntetic data, with 
+different number of classes and dimensions. In this experiment it is used only the Logistic Regression
+classifier. This experiment can be executed with the script:
+
+```
+python experiment_scalability.py
+```
