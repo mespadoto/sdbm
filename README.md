@@ -1,6 +1,7 @@
 # Supervised Decision Boundary Maps (sdbm)
 
-This repo contains the code to produce the results presented at the paper **PAPER NAME**. All the commands must be executed from inside the folder *code*.
+This repo contains the code to produce the results presented at the paper **SDBM: Supervised Decision Boundary Maps for Machine Learning
+Classifiers**. All the commands must be executed from inside the folder *code*.
 
 # Python Setup
 
