@@ -50,3 +50,23 @@ classifier. This experiment can be executed with the script:
 ```
 python experiment_scalability.py
 ```
+
+## Citation
+If you find the code helpful in your resarch or work, please cite the following paper and software
+```
+@inproceedings{oliveira2022sdbm,
+  title={SDBM: supervised decision boundary maps for machine learning classifiers},
+  author={Oliveira, Artur Andr{\'e} Almeida de Macedo and Espadoto, Mateus and Hirata J{\'u}nior, Roberto and Telea, Alexandru Cristian},
+  booktitle={Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 3: VISIGRAPP, 77-87, 2022},
+  year={2022}
+}
+
+@software{supervised_boundary_maps,
+author = {Oliveira, Artur Andr{\'e} Almeida de Macedo and Espadoto, Mateus and Hirata J{\'u}nior, Roberto and Telea, Alexandru Cristian},
+title = {{Supervised Decision Boundary Maps (SDBM)}},
+url = {https://github.com/mespadoto/sdbm},
+version = {1.0.0},
+year = {2022}
+}
+```
+
